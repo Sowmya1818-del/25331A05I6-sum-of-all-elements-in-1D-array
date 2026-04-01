@@ -1,0 +1,1 @@
+# 25331A05I6-sum-of-all-elements-in-1D-array
