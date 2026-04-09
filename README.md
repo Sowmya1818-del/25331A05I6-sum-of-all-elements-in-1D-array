@@ -10,5 +10,6 @@ for(i = 0; i < n; i++)
   sum += arr[i];
  }
 printf("Sum of array elements = %d\n", sum);
+printf("\n25331A05I6");
 return 0;
  }
